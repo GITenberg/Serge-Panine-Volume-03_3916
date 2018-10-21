@@ -1,5 +1,5 @@
 _repo: Serge-Panine-Volume-03_3916
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'French fiction -- Translations into English'
 - !lcc 'PQ'
 - !lcsh 'Paris (France) -- Fiction'
+- GITenberg
 title: Serge Panine — Volume 03
 url: http://www.gutenberg.org/ebooks/3916
